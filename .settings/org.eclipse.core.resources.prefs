@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/Customer/CustomerManagement.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/Customer/InsertCustomer.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/InComing/InComing.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/authentication/login.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/authentication/register.jsp=UTF-8
+encoding//src/controller/AuthenticationController.java=UTF-8
+encoding//src/controller/CustomerController.java=UTF-8
+encoding//src/controller/InComingController.java=UTF-8
+encoding//src/controller/OutGoingController.java=UTF-8
+encoding//src/controller/ProductController.java=UTF-8
+encoding//src/controller/SupplierController.java=UTF-8
